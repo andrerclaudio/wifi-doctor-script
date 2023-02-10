@@ -64,7 +64,7 @@ def main():
     Run the mainscript.
     """
 
-    print("Updated git file!  --  000")
+    print("Updated git file!  --  001")
 
     # ssid = input("Please, enter with the wifi SSID:  ")
     # pwd = input("Please, enter with the wifi password:  ")
